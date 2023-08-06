@@ -42,6 +42,14 @@ header {
     margin: 10px;
   }
 
+  .image {
+    width: 100%;
+  }
+
+  .wrap-figure {
+    display: grid;
+  }
+
   .wrapper {
     text-align: center;
   }
